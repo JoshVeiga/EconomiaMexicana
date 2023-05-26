@@ -1,0 +1,735 @@
+Subsector ID,Subsector,Sector ID,Sector,Year,Companies,Number of Employees LCI
+111,Agricultura,11,"Agricultura, Cría y Explotación de Animales, Aprovechamiento Forestal, Pesca y Caza",2017,1,0
+111,Agricultura,11,"Agricultura, Cría y Explotación de Animales, Aprovechamiento Forestal, Pesca y Caza",2019,723,27530
+111,Agricultura,11,"Agricultura, Cría y Explotación de Animales, Aprovechamiento Forestal, Pesca y Caza",2020,4,51
+111,Agricultura,11,"Agricultura, Cría y Explotación de Animales, Aprovechamiento Forestal, Pesca y Caza",2021,6,0
+112,Cría y Explotación de Animales,11,"Agricultura, Cría y Explotación de Animales, Aprovechamiento Forestal, Pesca y Caza",2015,1416,6791
+112,Cría y Explotación de Animales,11,"Agricultura, Cría y Explotación de Animales, Aprovechamiento Forestal, Pesca y Caza",2016,4779,24824
+112,Cría y Explotación de Animales,11,"Agricultura, Cría y Explotación de Animales, Aprovechamiento Forestal, Pesca y Caza",2017,4811,25013
+112,Cría y Explotación de Animales,11,"Agricultura, Cría y Explotación de Animales, Aprovechamiento Forestal, Pesca y Caza",2018,4820,25092
+112,Cría y Explotación de Animales,11,"Agricultura, Cría y Explotación de Animales, Aprovechamiento Forestal, Pesca y Caza",2019,7333,54967
+112,Cría y Explotación de Animales,11,"Agricultura, Cría y Explotación de Animales, Aprovechamiento Forestal, Pesca y Caza",2020,7035,45116
+112,Cría y Explotación de Animales,11,"Agricultura, Cría y Explotación de Animales, Aprovechamiento Forestal, Pesca y Caza",2021,7016,37084
+112,Cría y Explotación de Animales,11,"Agricultura, Cría y Explotación de Animales, Aprovechamiento Forestal, Pesca y Caza",2022,6992,37066
+113,Aprovechamiento Forestal,11,"Agricultura, Cría y Explotación de Animales, Aprovechamiento Forestal, Pesca y Caza",2019,38,95
+114,"Pesca, Caza y Captura",11,"Agricultura, Cría y Explotación de Animales, Aprovechamiento Forestal, Pesca y Caza",2015,8142,46715
+114,"Pesca, Caza y Captura",11,"Agricultura, Cría y Explotación de Animales, Aprovechamiento Forestal, Pesca y Caza",2016,35125,193259
+114,"Pesca, Caza y Captura",11,"Agricultura, Cría y Explotación de Animales, Aprovechamiento Forestal, Pesca y Caza",2017,35155,193976
+114,"Pesca, Caza y Captura",11,"Agricultura, Cría y Explotación de Animales, Aprovechamiento Forestal, Pesca y Caza",2018,35160,193934
+114,"Pesca, Caza y Captura",11,"Agricultura, Cría y Explotación de Animales, Aprovechamiento Forestal, Pesca y Caza",2019,35090,297361
+114,"Pesca, Caza y Captura",11,"Agricultura, Cría y Explotación de Animales, Aprovechamiento Forestal, Pesca y Caza",2020,34978,252774
+114,"Pesca, Caza y Captura",11,"Agricultura, Cría y Explotación de Animales, Aprovechamiento Forestal, Pesca y Caza",2021,34709,212419
+114,"Pesca, Caza y Captura",11,"Agricultura, Cría y Explotación de Animales, Aprovechamiento Forestal, Pesca y Caza",2022,34673,212363
+115,Servicios Relacionados con las Actividades Agropecuarias y Forestales,11,"Agricultura, Cría y Explotación de Animales, Aprovechamiento Forestal, Pesca y Caza",2015,1687,11074
+115,Servicios Relacionados con las Actividades Agropecuarias y Forestales,11,"Agricultura, Cría y Explotación de Animales, Aprovechamiento Forestal, Pesca y Caza",2016,2022,12838
+115,Servicios Relacionados con las Actividades Agropecuarias y Forestales,11,"Agricultura, Cría y Explotación de Animales, Aprovechamiento Forestal, Pesca y Caza",2017,2158,17086
+115,Servicios Relacionados con las Actividades Agropecuarias y Forestales,11,"Agricultura, Cría y Explotación de Animales, Aprovechamiento Forestal, Pesca y Caza",2018,2209,19503
+115,Servicios Relacionados con las Actividades Agropecuarias y Forestales,11,"Agricultura, Cría y Explotación de Animales, Aprovechamiento Forestal, Pesca y Caza",2019,2550,23221
+115,Servicios Relacionados con las Actividades Agropecuarias y Forestales,11,"Agricultura, Cría y Explotación de Animales, Aprovechamiento Forestal, Pesca y Caza",2020,2323,26512
+115,Servicios Relacionados con las Actividades Agropecuarias y Forestales,11,"Agricultura, Cría y Explotación de Animales, Aprovechamiento Forestal, Pesca y Caza",2021,2344,24623
+115,Servicios Relacionados con las Actividades Agropecuarias y Forestales,11,"Agricultura, Cría y Explotación de Animales, Aprovechamiento Forestal, Pesca y Caza",2022,2343,25023
+211,Extracción de Petróleo y Gas,21,Minería,2015,21,1370
+211,Extracción de Petróleo y Gas,21,Minería,2016,141,22015
+211,Extracción de Petróleo y Gas,21,Minería,2017,146,22075
+211,Extracción de Petróleo y Gas,21,Minería,2018,152,22089
+211,Extracción de Petróleo y Gas,21,Minería,2019,91,11678
+211,Extracción de Petróleo y Gas,21,Minería,2020,114,9339
+211,Extracción de Petróleo y Gas,21,Minería,2021,200,18142
+211,Extracción de Petróleo y Gas,21,Minería,2022,200,18142
+212,"Minería de Minerales Metálicos y no Metálicos, Excepto Petróleo y Gas",21,Minería,2015,2878,36281
+212,"Minería de Minerales Metálicos y no Metálicos, Excepto Petróleo y Gas",21,Minería,2016,6709,86846
+212,"Minería de Minerales Metálicos y no Metálicos, Excepto Petróleo y Gas",21,Minería,2017,6784,88141
+212,"Minería de Minerales Metálicos y no Metálicos, Excepto Petróleo y Gas",21,Minería,2018,6798,88586
+212,"Minería de Minerales Metálicos y no Metálicos, Excepto Petróleo y Gas",21,Minería,2019,5935,85641
+212,"Minería de Minerales Metálicos y no Metálicos, Excepto Petróleo y Gas",21,Minería,2020,5476,78747
+212,"Minería de Minerales Metálicos y no Metálicos, Excepto Petróleo y Gas",21,Minería,2021,5469,89644
+212,"Minería de Minerales Metálicos y no Metálicos, Excepto Petróleo y Gas",21,Minería,2022,5532,95392
+213,Servicios Relacionados con la Minería,21,Minería,2015,167,7434
+213,Servicios Relacionados con la Minería,21,Minería,2016,403,7806
+213,Servicios Relacionados con la Minería,21,Minería,2017,493,10330
+213,Servicios Relacionados con la Minería,21,Minería,2018,511,10913
+213,Servicios Relacionados con la Minería,21,Minería,2019,456,13368
+213,Servicios Relacionados con la Minería,21,Minería,2020,535,18396
+213,Servicios Relacionados con la Minería,21,Minería,2021,624,23459
+213,Servicios Relacionados con la Minería,21,Minería,2022,625,23909
+221,"Generación, Transmisión, Distribución y Comercialización de Energía Eléctrica, Suministro de Agua y de Gas Natural por Ductos al Consumidor Final",22,"Generación, Transmisión, Distribución y Comercialización de Energía Eléctrica, Suministro de Agua y de Gas Natural por Ductos al Consumidor Final",2015,1590,38514
+221,"Generación, Transmisión, Distribución y Comercialización de Energía Eléctrica, Suministro de Agua y de Gas Natural por Ductos al Consumidor Final",22,"Generación, Transmisión, Distribución y Comercialización de Energía Eléctrica, Suministro de Agua y de Gas Natural por Ductos al Consumidor Final",2016,3409,82684
+221,"Generación, Transmisión, Distribución y Comercialización de Energía Eléctrica, Suministro de Agua y de Gas Natural por Ductos al Consumidor Final",22,"Generación, Transmisión, Distribución y Comercialización de Energía Eléctrica, Suministro de Agua y de Gas Natural por Ductos al Consumidor Final",2017,3444,84281
+221,"Generación, Transmisión, Distribución y Comercialización de Energía Eléctrica, Suministro de Agua y de Gas Natural por Ductos al Consumidor Final",22,"Generación, Transmisión, Distribución y Comercialización de Energía Eléctrica, Suministro de Agua y de Gas Natural por Ductos al Consumidor Final",2018,9815,159972
+221,"Generación, Transmisión, Distribución y Comercialización de Energía Eléctrica, Suministro de Agua y de Gas Natural por Ductos al Consumidor Final",22,"Generación, Transmisión, Distribución y Comercialización de Energía Eléctrica, Suministro de Agua y de Gas Natural por Ductos al Consumidor Final",2019,17260,241206
+221,"Generación, Transmisión, Distribución y Comercialización de Energía Eléctrica, Suministro de Agua y de Gas Natural por Ductos al Consumidor Final",22,"Generación, Transmisión, Distribución y Comercialización de Energía Eléctrica, Suministro de Agua y de Gas Natural por Ductos al Consumidor Final",2020,18604,228395
+221,"Generación, Transmisión, Distribución y Comercialización de Energía Eléctrica, Suministro de Agua y de Gas Natural por Ductos al Consumidor Final",22,"Generación, Transmisión, Distribución y Comercialización de Energía Eléctrica, Suministro de Agua y de Gas Natural por Ductos al Consumidor Final",2021,19123,217331
+221,"Generación, Transmisión, Distribución y Comercialización de Energía Eléctrica, Suministro de Agua y de Gas Natural por Ductos al Consumidor Final",22,"Generación, Transmisión, Distribución y Comercialización de Energía Eléctrica, Suministro de Agua y de Gas Natural por Ductos al Consumidor Final",2022,19115,217651
+222,Suministro de Agua y Suministro de Gas por Ductos al Consumidor Final,22,"Generación, Transmisión, Distribución y Comercialización de Energía Eléctrica, Suministro de Agua y de Gas Natural por Ductos al Consumidor Final",2015,3074,22922
+222,Suministro de Agua y Suministro de Gas por Ductos al Consumidor Final,22,"Generación, Transmisión, Distribución y Comercialización de Energía Eléctrica, Suministro de Agua y de Gas Natural por Ductos al Consumidor Final",2016,12714,150668
+222,Suministro de Agua y Suministro de Gas por Ductos al Consumidor Final,22,"Generación, Transmisión, Distribución y Comercialización de Energía Eléctrica, Suministro de Agua y de Gas Natural por Ductos al Consumidor Final",2017,12761,151338
+222,Suministro de Agua y Suministro de Gas por Ductos al Consumidor Final,22,"Generación, Transmisión, Distribución y Comercialización de Energía Eléctrica, Suministro de Agua y de Gas Natural por Ductos al Consumidor Final",2018,6383,75786
+236,Edificación,23,Construcción,2015,8901,198302
+236,Edificación,23,Construcción,2016,24051,402536
+236,Edificación,23,Construcción,2017,24839,418740
+236,Edificación,23,Construcción,2018,25001,424106
+236,Edificación,23,Construcción,2019,24091,478118
+236,Edificación,23,Construcción,2020,24369,458826
+236,Edificación,23,Construcción,2021,25598,474152
+236,Edificación,23,Construcción,2022,25216,462479
+237,Construcción de Obras de Ingeniería Civil,23,Construcción,2015,5499,141301
+237,Construcción de Obras de Ingeniería Civil,23,Construcción,2016,14589,269868
+237,Construcción de Obras de Ingeniería Civil,23,Construcción,2017,15089,282200
+237,Construcción de Obras de Ingeniería Civil,23,Construcción,2018,15197,285479
+237,Construcción de Obras de Ingeniería Civil,23,Construcción,2019,13957,292217
+237,Construcción de Obras de Ingeniería Civil,23,Construcción,2020,12198,259423
+237,Construcción de Obras de Ingeniería Civil,23,Construcción,2021,12572,255164
+237,Construcción de Obras de Ingeniería Civil,23,Construcción,2022,12439,250870
+238,Trabajos Especializados para la Construcción,23,Construcción,2015,5930,36709
+238,Trabajos Especializados para la Construcción,23,Construcción,2016,13987,106066
+238,Trabajos Especializados para la Construcción,23,Construcción,2017,14503,112409
+238,Trabajos Especializados para la Construcción,23,Construcción,2018,14660,114653
+238,Trabajos Especializados para la Construcción,23,Construcción,2019,16112,124312
+238,Trabajos Especializados para la Construcción,23,Construcción,2020,15896,115742
+238,Trabajos Especializados para la Construcción,23,Construcción,2021,16132,116648
+238,Trabajos Especializados para la Construcción,23,Construcción,2022,15963,115169
+311,Industria Alimentaria,31-33,Industrias Manufactureras,2015,185013,291338
+311,Industria Alimentaria,31-33,Industrias Manufactureras,2016,373533,597512
+311,Industria Alimentaria,31-33,Industrias Manufactureras,2017,374470,610084
+311,Industria Alimentaria,31-33,Industrias Manufactureras,2018,374614,614280
+311,Industria Alimentaria,31-33,Industrias Manufactureras,2019,404239,650377
+311,Industria Alimentaria,31-33,Industrias Manufactureras,2020,433370,692568
+311,Industria Alimentaria,31-33,Industrias Manufactureras,2021,434030,706967
+311,Industria Alimentaria,31-33,Industrias Manufactureras,2022,434797,707176
+312,Industria de las Bebidas y del Tabaco,31-33,Industrias Manufactureras,2015,21514,54786
+312,Industria de las Bebidas y del Tabaco,31-33,Industrias Manufactureras,2016,44055,133639
+312,Industria de las Bebidas y del Tabaco,31-33,Industrias Manufactureras,2017,44359,141507
+312,Industria de las Bebidas y del Tabaco,31-33,Industrias Manufactureras,2018,44475,145256
+312,Industria de las Bebidas y del Tabaco,31-33,Industrias Manufactureras,2019,48897,137467
+312,Industria de las Bebidas y del Tabaco,31-33,Industrias Manufactureras,2020,53347,132099
+312,Industria de las Bebidas y del Tabaco,31-33,Industrias Manufactureras,2021,53786,139890
+312,Industria de las Bebidas y del Tabaco,31-33,Industrias Manufactureras,2022,53889,139775
+313,Fabricación de Insumos Textiles y Acabado de Textiles,31-33,Industrias Manufactureras,2015,14868,44575
+313,Fabricación de Insumos Textiles y Acabado de Textiles,31-33,Industrias Manufactureras,2016,30594,85738
+313,Fabricación de Insumos Textiles y Acabado de Textiles,31-33,Industrias Manufactureras,2017,30768,86201
+313,Fabricación de Insumos Textiles y Acabado de Textiles,31-33,Industrias Manufactureras,2018,30796,86050
+313,Fabricación de Insumos Textiles y Acabado de Textiles,31-33,Industrias Manufactureras,2019,34528,86998
+313,Fabricación de Insumos Textiles y Acabado de Textiles,31-33,Industrias Manufactureras,2020,36476,86885
+313,Fabricación de Insumos Textiles y Acabado de Textiles,31-33,Industrias Manufactureras,2021,36749,90485
+313,Fabricación de Insumos Textiles y Acabado de Textiles,31-33,Industrias Manufactureras,2022,36814,88623
+314,"Fabricación de Productos Textiles, Excepto Prendas de Vestir",31-33,Industrias Manufactureras,2015,29091,19734
+314,"Fabricación de Productos Textiles, Excepto Prendas de Vestir",31-33,Industrias Manufactureras,2016,58081,43661
+314,"Fabricación de Productos Textiles, Excepto Prendas de Vestir",31-33,Industrias Manufactureras,2017,58071,45947
+314,"Fabricación de Productos Textiles, Excepto Prendas de Vestir",31-33,Industrias Manufactureras,2018,58079,47280
+314,"Fabricación de Productos Textiles, Excepto Prendas de Vestir",31-33,Industrias Manufactureras,2019,68523,55682
+314,"Fabricación de Productos Textiles, Excepto Prendas de Vestir",31-33,Industrias Manufactureras,2020,79948,58366
+314,"Fabricación de Productos Textiles, Excepto Prendas de Vestir",31-33,Industrias Manufactureras,2021,80287,60314
+314,"Fabricación de Productos Textiles, Excepto Prendas de Vestir",31-33,Industrias Manufactureras,2022,80337,59192
+315,Fabricación de Prendas de Vestir,31-33,Industrias Manufactureras,2015,30519,137676
+315,Fabricación de Prendas de Vestir,31-33,Industrias Manufactureras,2016,61609,278889
+315,Fabricación de Prendas de Vestir,31-33,Industrias Manufactureras,2017,61723,272970
+315,Fabricación de Prendas de Vestir,31-33,Industrias Manufactureras,2018,61784,273532
+315,Fabricación de Prendas de Vestir,31-33,Industrias Manufactureras,2019,74646,279260
+315,Fabricación de Prendas de Vestir,31-33,Industrias Manufactureras,2020,87909,291353
+315,Fabricación de Prendas de Vestir,31-33,Industrias Manufactureras,2021,87584,293253
+315,Fabricación de Prendas de Vestir,31-33,Industrias Manufactureras,2022,87594,286872
+316,"Curtido y Acabado de Cuero y Piel, y Fabricación de Productos de Cuero, Piel y Materiales Sucedáneos",31-33,Industrias Manufactureras,2015,11591,85921
+316,"Curtido y Acabado de Cuero y Piel, y Fabricación de Productos de Cuero, Piel y Materiales Sucedáneos",31-33,Industrias Manufactureras,2016,23617,173683
+316,"Curtido y Acabado de Cuero y Piel, y Fabricación de Productos de Cuero, Piel y Materiales Sucedáneos",31-33,Industrias Manufactureras,2017,23639,174704
+316,"Curtido y Acabado de Cuero y Piel, y Fabricación de Productos de Cuero, Piel y Materiales Sucedáneos",31-33,Industrias Manufactureras,2018,23648,175876
+316,"Curtido y Acabado de Cuero y Piel, y Fabricación de Productos de Cuero, Piel y Materiales Sucedáneos",31-33,Industrias Manufactureras,2019,25474,175555
+316,"Curtido y Acabado de Cuero y Piel, y Fabricación de Productos de Cuero, Piel y Materiales Sucedáneos",31-33,Industrias Manufactureras,2020,27272,180116
+316,"Curtido y Acabado de Cuero y Piel, y Fabricación de Productos de Cuero, Piel y Materiales Sucedáneos",31-33,Industrias Manufactureras,2021,27273,182066
+316,"Curtido y Acabado de Cuero y Piel, y Fabricación de Productos de Cuero, Piel y Materiales Sucedáneos",31-33,Industrias Manufactureras,2022,27206,179211
+321,Industria de la Madera,31-33,Industrias Manufactureras,2015,23476,26745
+321,Industria de la Madera,31-33,Industrias Manufactureras,2016,47407,56737
+321,Industria de la Madera,31-33,Industrias Manufactureras,2017,47427,55200
+321,Industria de la Madera,31-33,Industrias Manufactureras,2018,47456,55640
+321,Industria de la Madera,31-33,Industrias Manufactureras,2019,58515,62594
+321,Industria de la Madera,31-33,Industrias Manufactureras,2020,69315,70505
+321,Industria de la Madera,31-33,Industrias Manufactureras,2021,69166,70917
+321,Industria de la Madera,31-33,Industrias Manufactureras,2022,69223,70851
+322,Industria del Papel,31-33,Industrias Manufactureras,2015,4547,56993
+322,Industria del Papel,31-33,Industrias Manufactureras,2016,9525,133167
+322,Industria del Papel,31-33,Industrias Manufactureras,2017,9796,138989
+322,Industria del Papel,31-33,Industrias Manufactureras,2018,9869,144477
+322,Industria del Papel,31-33,Industrias Manufactureras,2019,11290,143677
+322,Industria del Papel,31-33,Industrias Manufactureras,2020,12804,151968
+322,Industria del Papel,31-33,Industrias Manufactureras,2021,12879,160880
+322,Industria del Papel,31-33,Industrias Manufactureras,2022,12890,159083
+323,Impresión e Industrias Conexas,31-33,Industrias Manufactureras,2015,20750,61769
+323,Impresión e Industrias Conexas,31-33,Industrias Manufactureras,2016,43028,127077
+323,Impresión e Industrias Conexas,31-33,Industrias Manufactureras,2017,43285,126160
+323,Impresión e Industrias Conexas,31-33,Industrias Manufactureras,2018,43356,126498
+323,Impresión e Industrias Conexas,31-33,Industrias Manufactureras,2019,41243,120111
+323,Impresión e Industrias Conexas,31-33,Industrias Manufactureras,2020,39792,123150
+323,Impresión e Industrias Conexas,31-33,Industrias Manufactureras,2021,39865,123111
+323,Impresión e Industrias Conexas,31-33,Industrias Manufactureras,2022,39902,122433
+324,Fabricación de Productos Derivados del Petróleo y del Carbón,31-33,Industrias Manufactureras,2015,265,6831
+324,Fabricación de Productos Derivados del Petróleo y del Carbón,31-33,Industrias Manufactureras,2016,509,15974
+324,Fabricación de Productos Derivados del Petróleo y del Carbón,31-33,Industrias Manufactureras,2017,556,16226
+324,Fabricación de Productos Derivados del Petróleo y del Carbón,31-33,Industrias Manufactureras,2018,565,15773
+324,Fabricación de Productos Derivados del Petróleo y del Carbón,31-33,Industrias Manufactureras,2019,558,14576
+324,Fabricación de Productos Derivados del Petróleo y del Carbón,31-33,Industrias Manufactureras,2020,569,14585
+324,Fabricación de Productos Derivados del Petróleo y del Carbón,31-33,Industrias Manufactureras,2021,617,17124
+324,Fabricación de Productos Derivados del Petróleo y del Carbón,31-33,Industrias Manufactureras,2022,588,16913
+325,Industria Química,31-33,Industrias Manufactureras,2015,4731,114761
+325,Industria Química,31-33,Industrias Manufactureras,2016,9917,255317
+325,Industria Química,31-33,Industrias Manufactureras,2017,10159,255673
+325,Industria Química,31-33,Industrias Manufactureras,2018,10242,261092
+325,Industria Química,31-33,Industrias Manufactureras,2019,10931,257925
+325,Industria Química,31-33,Industrias Manufactureras,2020,11592,262017
+325,Industria Química,31-33,Industrias Manufactureras,2021,11854,278189
+325,Industria Química,31-33,Industrias Manufactureras,2022,11887,278049
+326,Industria del Plástico y del Hule,31-33,Industrias Manufactureras,2015,5671,160334
+326,Industria del Plástico y del Hule,31-33,Industrias Manufactureras,2016,12242,347921
+326,Industria del Plástico y del Hule,31-33,Industrias Manufactureras,2017,12596,357075
+326,Industria del Plástico y del Hule,31-33,Industrias Manufactureras,2018,12768,366635
+326,Industria del Plástico y del Hule,31-33,Industrias Manufactureras,2019,12753,375838
+326,Industria del Plástico y del Hule,31-33,Industrias Manufactureras,2020,12987,391309
+326,Industria del Plástico y del Hule,31-33,Industrias Manufactureras,2021,13249,408090
+326,Industria del Plástico y del Hule,31-33,Industrias Manufactureras,2022,13278,405297
+327,Fabricación de Productos a Base de Minerales no Metálicos,31-33,Industrias Manufactureras,2015,32680,77644
+327,Fabricación de Productos a Base de Minerales no Metálicos,31-33,Industrias Manufactureras,2016,66507,179031
+327,Fabricación de Productos a Base de Minerales no Metálicos,31-33,Industrias Manufactureras,2017,66814,186605
+327,Fabricación de Productos a Base de Minerales no Metálicos,31-33,Industrias Manufactureras,2018,66947,191381
+327,Fabricación de Productos a Base de Minerales no Metálicos,31-33,Industrias Manufactureras,2019,69154,196066
+327,Fabricación de Productos a Base de Minerales no Metálicos,31-33,Industrias Manufactureras,2020,71614,196702
+327,Fabricación de Productos a Base de Minerales no Metálicos,31-33,Industrias Manufactureras,2021,71559,190629
+327,Fabricación de Productos a Base de Minerales no Metálicos,31-33,Industrias Manufactureras,2022,71632,190940
+331,Industrias Metálicas Básicas,31-33,Industrias Manufactureras,2015,934,39813
+331,Industrias Metálicas Básicas,31-33,Industrias Manufactureras,2016,2057,90683
+331,Industrias Metálicas Básicas,31-33,Industrias Manufactureras,2017,2193,96690
+331,Industrias Metálicas Básicas,31-33,Industrias Manufactureras,2018,2229,99037
+331,Industrias Metálicas Básicas,31-33,Industrias Manufactureras,2019,2718,108099
+331,Industrias Metálicas Básicas,31-33,Industrias Manufactureras,2020,2957,115190
+331,Industrias Metálicas Básicas,31-33,Industrias Manufactureras,2021,3045,124201
+331,Industrias Metálicas Básicas,31-33,Industrias Manufactureras,2022,3041,123168
+332,Fabricación de Productos Metálicos,31-33,Industrias Manufactureras,2015,72527,161435
+332,Fabricación de Productos Metálicos,31-33,Industrias Manufactureras,2016,148090,340716
+332,Fabricación de Productos Metálicos,31-33,Industrias Manufactureras,2017,148430,346923
+332,Fabricación de Productos Metálicos,31-33,Industrias Manufactureras,2018,148571,350488
+332,Fabricación de Productos Metálicos,31-33,Industrias Manufactureras,2019,150123,368378
+332,Fabricación de Productos Metálicos,31-33,Industrias Manufactureras,2020,148581,384617
+332,Fabricación de Productos Metálicos,31-33,Industrias Manufactureras,2021,148936,391245
+332,Fabricación de Productos Metálicos,31-33,Industrias Manufactureras,2022,149085,388448
+333,Fabricación de Maquinaria y Equipo,31-33,Industrias Manufactureras,2015,2418,61647
+333,Fabricación de Maquinaria y Equipo,31-33,Industrias Manufactureras,2016,5284,140200
+333,Fabricación de Maquinaria y Equipo,31-33,Industrias Manufactureras,2017,5487,141306
+333,Fabricación de Maquinaria y Equipo,31-33,Industrias Manufactureras,2018,5578,144222
+333,Fabricación de Maquinaria y Equipo,31-33,Industrias Manufactureras,2019,6624,158262
+333,Fabricación de Maquinaria y Equipo,31-33,Industrias Manufactureras,2020,6953,168764
+333,Fabricación de Maquinaria y Equipo,31-33,Industrias Manufactureras,2021,7104,169664
+333,Fabricación de Maquinaria y Equipo,31-33,Industrias Manufactureras,2022,7112,168909
+334,"Fabricación de Equipo de Computación, Comunicación, Medición y de otros Equipos, Componentes y Accesorios Electrónicos",31-33,Industrias Manufactureras,2015,766,80298
+334,"Fabricación de Equipo de Computación, Comunicación, Medición y de otros Equipos, Componentes y Accesorios Electrónicos",31-33,Industrias Manufactureras,2016,1724,164070
+334,"Fabricación de Equipo de Computación, Comunicación, Medición y de otros Equipos, Componentes y Accesorios Electrónicos",31-33,Industrias Manufactureras,2017,1861,171477
+334,"Fabricación de Equipo de Computación, Comunicación, Medición y de otros Equipos, Componentes y Accesorios Electrónicos",31-33,Industrias Manufactureras,2018,1911,176699
+334,"Fabricación de Equipo de Computación, Comunicación, Medición y de otros Equipos, Componentes y Accesorios Electrónicos",31-33,Industrias Manufactureras,2019,1937,183307
+334,"Fabricación de Equipo de Computación, Comunicación, Medición y de otros Equipos, Componentes y Accesorios Electrónicos",31-33,Industrias Manufactureras,2020,1884,182665
+334,"Fabricación de Equipo de Computación, Comunicación, Medición y de otros Equipos, Componentes y Accesorios Electrónicos",31-33,Industrias Manufactureras,2021,1922,185654
+334,"Fabricación de Equipo de Computación, Comunicación, Medición y de otros Equipos, Componentes y Accesorios Electrónicos",31-33,Industrias Manufactureras,2022,1927,183649
+335,"Fabricación de Accesorios, Aparatos Eléctricos y Equipo de Generación de Energía Eléctrica",31-33,Industrias Manufactureras,2015,1243,69866
+335,"Fabricación de Accesorios, Aparatos Eléctricos y Equipo de Generación de Energía Eléctrica",31-33,Industrias Manufactureras,2016,2700,147954
+335,"Fabricación de Accesorios, Aparatos Eléctricos y Equipo de Generación de Energía Eléctrica",31-33,Industrias Manufactureras,2017,2749,152572
+335,"Fabricación de Accesorios, Aparatos Eléctricos y Equipo de Generación de Energía Eléctrica",31-33,Industrias Manufactureras,2018,2765,157332
+335,"Fabricación de Accesorios, Aparatos Eléctricos y Equipo de Generación de Energía Eléctrica",31-33,Industrias Manufactureras,2019,2613,155240
+335,"Fabricación de Accesorios, Aparatos Eléctricos y Equipo de Generación de Energía Eléctrica",31-33,Industrias Manufactureras,2020,2540,160622
+335,"Fabricación de Accesorios, Aparatos Eléctricos y Equipo de Generación de Energía Eléctrica",31-33,Industrias Manufactureras,2021,2565,163728
+335,"Fabricación de Accesorios, Aparatos Eléctricos y Equipo de Generación de Energía Eléctrica",31-33,Industrias Manufactureras,2022,2563,162484
+336,Fabricación de Equipo de Transporte,31-33,Industrias Manufactureras,2015,2482,209050
+336,Fabricación de Equipo de Transporte,31-33,Industrias Manufactureras,2016,5791,452321
+336,Fabricación de Equipo de Transporte,31-33,Industrias Manufactureras,2017,6226,486187
+336,Fabricación de Equipo de Transporte,31-33,Industrias Manufactureras,2018,6329,500931
+336,Fabricación de Equipo de Transporte,31-33,Industrias Manufactureras,2019,6742,556465
+336,Fabricación de Equipo de Transporte,31-33,Industrias Manufactureras,2020,6926,600745
+336,Fabricación de Equipo de Transporte,31-33,Industrias Manufactureras,2021,7137,622808
+336,Fabricación de Equipo de Transporte,31-33,Industrias Manufactureras,2022,7146,621964
+337,"Fabricación de Muebles, Colchones y Persianas",31-33,Industrias Manufactureras,2015,32156,66964
+337,"Fabricación de Muebles, Colchones y Persianas",31-33,Industrias Manufactureras,2016,68768,139723
+337,"Fabricación de Muebles, Colchones y Persianas",31-33,Industrias Manufactureras,2017,69057,141389
+337,"Fabricación de Muebles, Colchones y Persianas",31-33,Industrias Manufactureras,2018,69153,144534
+337,"Fabricación de Muebles, Colchones y Persianas",31-33,Industrias Manufactureras,2019,65284,153492
+337,"Fabricación de Muebles, Colchones y Persianas",31-33,Industrias Manufactureras,2020,62992,170907
+337,"Fabricación de Muebles, Colchones y Persianas",31-33,Industrias Manufactureras,2021,63179,164799
+337,"Fabricación de Muebles, Colchones y Persianas",31-33,Industrias Manufactureras,2022,63242,164643
+339,Otras Industrias Manufactureras,31-33,Industrias Manufactureras,2015,18320,82062
+339,Otras Industrias Manufactureras,31-33,Industrias Manufactureras,2016,37641,167415
+339,Otras Industrias Manufactureras,31-33,Industrias Manufactureras,2017,38088,167241
+339,Otras Industrias Manufactureras,31-33,Industrias Manufactureras,2018,38114,169559
+339,Otras Industrias Manufactureras,31-33,Industrias Manufactureras,2019,40025,174224
+339,Otras Industrias Manufactureras,31-33,Industrias Manufactureras,2020,42600,183337
+339,Otras Industrias Manufactureras,31-33,Industrias Manufactureras,2021,42539,185787
+339,Otras Industrias Manufactureras,31-33,Industrias Manufactureras,2022,42587,185351
+431,"Comercio al por Mayor de Abarrotes, Alimentos, Bebidas, Hielo y Tabaco",43,Comercio al por Mayor,2015,31040,409472
+431,"Comercio al por Mayor de Abarrotes, Alimentos, Bebidas, Hielo y Tabaco",43,Comercio al por Mayor,2016,51001,675628
+431,"Comercio al por Mayor de Abarrotes, Alimentos, Bebidas, Hielo y Tabaco",43,Comercio al por Mayor,2017,52961,721805
+431,"Comercio al por Mayor de Abarrotes, Alimentos, Bebidas, Hielo y Tabaco",43,Comercio al por Mayor,2018,53515,770602
+431,"Comercio al por Mayor de Abarrotes, Alimentos, Bebidas, Hielo y Tabaco",43,Comercio al por Mayor,2019,54387,778752
+431,"Comercio al por Mayor de Abarrotes, Alimentos, Bebidas, Hielo y Tabaco",43,Comercio al por Mayor,2020,54804,772098
+431,"Comercio al por Mayor de Abarrotes, Alimentos, Bebidas, Hielo y Tabaco",43,Comercio al por Mayor,2021,54455,794016
+431,"Comercio al por Mayor de Abarrotes, Alimentos, Bebidas, Hielo y Tabaco",43,Comercio al por Mayor,2022,54806,797091
+432,Comercio al por Mayor de Productos Textiles y Calzado,43,Comercio al por Mayor,2015,6362,21976
+432,Comercio al por Mayor de Productos Textiles y Calzado,43,Comercio al por Mayor,2016,13221,39852
+432,Comercio al por Mayor de Productos Textiles y Calzado,43,Comercio al por Mayor,2017,13575,43316
+432,Comercio al por Mayor de Productos Textiles y Calzado,43,Comercio al por Mayor,2018,13723,44646
+432,Comercio al por Mayor de Productos Textiles y Calzado,43,Comercio al por Mayor,2019,13559,48904
+432,Comercio al por Mayor de Productos Textiles y Calzado,43,Comercio al por Mayor,2020,13346,48758
+432,Comercio al por Mayor de Productos Textiles y Calzado,43,Comercio al por Mayor,2021,13517,48240
+432,Comercio al por Mayor de Productos Textiles y Calzado,43,Comercio al por Mayor,2022,13535,47764
+433,"Comercio al por Mayor de Productos Farmacéuticos, de Perfumería, Artículos para el Esparcimiento, Electrodomésticos Menores y Aparatos de Línea Blanca",43,Comercio al por Mayor,2015,8594,66472
+433,"Comercio al por Mayor de Productos Farmacéuticos, de Perfumería, Artículos para el Esparcimiento, Electrodomésticos Menores y Aparatos de Línea Blanca",43,Comercio al por Mayor,2016,17667,120897
+433,"Comercio al por Mayor de Productos Farmacéuticos, de Perfumería, Artículos para el Esparcimiento, Electrodomésticos Menores y Aparatos de Línea Blanca",43,Comercio al por Mayor,2017,18285,120563
+433,"Comercio al por Mayor de Productos Farmacéuticos, de Perfumería, Artículos para el Esparcimiento, Electrodomésticos Menores y Aparatos de Línea Blanca",43,Comercio al por Mayor,2018,18722,148736
+433,"Comercio al por Mayor de Productos Farmacéuticos, de Perfumería, Artículos para el Esparcimiento, Electrodomésticos Menores y Aparatos de Línea Blanca",43,Comercio al por Mayor,2019,17263,158515
+433,"Comercio al por Mayor de Productos Farmacéuticos, de Perfumería, Artículos para el Esparcimiento, Electrodomésticos Menores y Aparatos de Línea Blanca",43,Comercio al por Mayor,2020,16271,155243
+433,"Comercio al por Mayor de Productos Farmacéuticos, de Perfumería, Artículos para el Esparcimiento, Electrodomésticos Menores y Aparatos de Línea Blanca",43,Comercio al por Mayor,2021,16425,136520
+433,"Comercio al por Mayor de Productos Farmacéuticos, de Perfumería, Artículos para el Esparcimiento, Electrodomésticos Menores y Aparatos de Línea Blanca",43,Comercio al por Mayor,2022,16421,136437
+434,"Comercio al por Mayor de Materias Primas Agropecuarias y Forestales, para la Industria, y Materiales de Desecho",43,Comercio al por Mayor,2015,81199,214141
+434,"Comercio al por Mayor de Materias Primas Agropecuarias y Forestales, para la Industria, y Materiales de Desecho",43,Comercio al por Mayor,2016,161583,440300
+434,"Comercio al por Mayor de Materias Primas Agropecuarias y Forestales, para la Industria, y Materiales de Desecho",43,Comercio al por Mayor,2017,164656,449838
+434,"Comercio al por Mayor de Materias Primas Agropecuarias y Forestales, para la Industria, y Materiales de Desecho",43,Comercio al por Mayor,2018,165783,471698
+434,"Comercio al por Mayor de Materias Primas Agropecuarias y Forestales, para la Industria, y Materiales de Desecho",43,Comercio al por Mayor,2019,177305,511735
+434,"Comercio al por Mayor de Materias Primas Agropecuarias y Forestales, para la Industria, y Materiales de Desecho",43,Comercio al por Mayor,2020,187919,540534
+434,"Comercio al por Mayor de Materias Primas Agropecuarias y Forestales, para la Industria, y Materiales de Desecho",43,Comercio al por Mayor,2021,189685,550096
+434,"Comercio al por Mayor de Materias Primas Agropecuarias y Forestales, para la Industria, y Materiales de Desecho",43,Comercio al por Mayor,2022,189905,549590
+435,"Comercio al por Mayor de Maquinaria, Equipo y Mobiliario para Actividades Agropecuarias, Industriales, de Servicios y Comerciales, y de otra Maquinaria y Equipo de Uso General",43,Comercio al por Mayor,2015,21336,122609
+435,"Comercio al por Mayor de Maquinaria, Equipo y Mobiliario para Actividades Agropecuarias, Industriales, de Servicios y Comerciales, y de otra Maquinaria y Equipo de Uso General",43,Comercio al por Mayor,2016,45246,246437
+435,"Comercio al por Mayor de Maquinaria, Equipo y Mobiliario para Actividades Agropecuarias, Industriales, de Servicios y Comerciales, y de otra Maquinaria y Equipo de Uso General",43,Comercio al por Mayor,2017,47140,255284
+435,"Comercio al por Mayor de Maquinaria, Equipo y Mobiliario para Actividades Agropecuarias, Industriales, de Servicios y Comerciales, y de otra Maquinaria y Equipo de Uso General",43,Comercio al por Mayor,2018,47676,269488
+435,"Comercio al por Mayor de Maquinaria, Equipo y Mobiliario para Actividades Agropecuarias, Industriales, de Servicios y Comerciales, y de otra Maquinaria y Equipo de Uso General",43,Comercio al por Mayor,2019,50103,294658
+435,"Comercio al por Mayor de Maquinaria, Equipo y Mobiliario para Actividades Agropecuarias, Industriales, de Servicios y Comerciales, y de otra Maquinaria y Equipo de Uso General",43,Comercio al por Mayor,2020,52803,300518
+435,"Comercio al por Mayor de Maquinaria, Equipo y Mobiliario para Actividades Agropecuarias, Industriales, de Servicios y Comerciales, y de otra Maquinaria y Equipo de Uso General",43,Comercio al por Mayor,2021,53648,316070
+435,"Comercio al por Mayor de Maquinaria, Equipo y Mobiliario para Actividades Agropecuarias, Industriales, de Servicios y Comerciales, y de otra Maquinaria y Equipo de Uso General",43,Comercio al por Mayor,2022,53672,315015
+436,"Comercio al por Mayor de Camiones y de Partes y Refacciones Nuevas para Automóviles, Camionetas y Camiones",43,Comercio al por Mayor,2015,4649,17346
+436,"Comercio al por Mayor de Camiones y de Partes y Refacciones Nuevas para Automóviles, Camionetas y Camiones",43,Comercio al por Mayor,2016,3397,29627
+436,"Comercio al por Mayor de Camiones y de Partes y Refacciones Nuevas para Automóviles, Camionetas y Camiones",43,Comercio al por Mayor,2017,3706,32871
+436,"Comercio al por Mayor de Camiones y de Partes y Refacciones Nuevas para Automóviles, Camionetas y Camiones",43,Comercio al por Mayor,2018,3839,35418
+436,"Comercio al por Mayor de Camiones y de Partes y Refacciones Nuevas para Automóviles, Camionetas y Camiones",43,Comercio al por Mayor,2019,5172,42790
+436,"Comercio al por Mayor de Camiones y de Partes y Refacciones Nuevas para Automóviles, Camionetas y Camiones",43,Comercio al por Mayor,2020,6419,51260
+436,"Comercio al por Mayor de Camiones y de Partes y Refacciones Nuevas para Automóviles, Camionetas y Camiones",43,Comercio al por Mayor,2021,6503,53871
+436,"Comercio al por Mayor de Camiones y de Partes y Refacciones Nuevas para Automóviles, Camionetas y Camiones",43,Comercio al por Mayor,2022,6526,54368
+437,Intermediación de Comercio al por Mayor,43,Comercio al por Mayor,2015,222,2162
+437,Intermediación de Comercio al por Mayor,43,Comercio al por Mayor,2016,478,3883
+437,Intermediación de Comercio al por Mayor,43,Comercio al por Mayor,2017,535,4515
+437,Intermediación de Comercio al por Mayor,43,Comercio al por Mayor,2018,557,4535
+437,Intermediación de Comercio al por Mayor,43,Comercio al por Mayor,2019,1169,6460
+437,Intermediación de Comercio al por Mayor,43,Comercio al por Mayor,2020,582,5365
+437,Intermediación de Comercio al por Mayor,43,Comercio al por Mayor,2021,763,4814
+437,Intermediación de Comercio al por Mayor,43,Comercio al por Mayor,2022,761,4801
+461,"Comercio al por Menor de Abarrotes, Alimentos, Bebidas, Hielo y Tabaco",46,Comercio al por Menor,2015,1012609,170802
+461,"Comercio al por Menor de Abarrotes, Alimentos, Bebidas, Hielo y Tabaco",46,Comercio al por Menor,2016,2071498,307353
+461,"Comercio al por Menor de Abarrotes, Alimentos, Bebidas, Hielo y Tabaco",46,Comercio al por Menor,2017,2071824,307326
+461,"Comercio al por Menor de Abarrotes, Alimentos, Bebidas, Hielo y Tabaco",46,Comercio al por Menor,2018,2071760,364940
+461,"Comercio al por Menor de Abarrotes, Alimentos, Bebidas, Hielo y Tabaco",46,Comercio al por Menor,2019,2094252,457181
+461,"Comercio al por Menor de Abarrotes, Alimentos, Bebidas, Hielo y Tabaco",46,Comercio al por Menor,2020,2125779,432216
+461,"Comercio al por Menor de Abarrotes, Alimentos, Bebidas, Hielo y Tabaco",46,Comercio al por Menor,2021,2129975,362946
+461,"Comercio al por Menor de Abarrotes, Alimentos, Bebidas, Hielo y Tabaco",46,Comercio al por Menor,2022,2133561,363036
+462,Comercio al por Menor en Tiendas de Autoservicio y Departamentales,46,Comercio al por Menor,2015,56347,524600
+462,Comercio al por Menor en Tiendas de Autoservicio y Departamentales,46,Comercio al por Menor,2016,100814,1020242
+462,Comercio al por Menor en Tiendas de Autoservicio y Departamentales,46,Comercio al por Menor,2017,107600,1163412
+462,Comercio al por Menor en Tiendas de Autoservicio y Departamentales,46,Comercio al por Menor,2018,111277,1351065
+462,Comercio al por Menor en Tiendas de Autoservicio y Departamentales,46,Comercio al por Menor,2019,112761,1520820
+462,Comercio al por Menor en Tiendas de Autoservicio y Departamentales,46,Comercio al por Menor,2020,126497,1422897
+462,Comercio al por Menor en Tiendas de Autoservicio y Departamentales,46,Comercio al por Menor,2021,128808,1253954
+462,Comercio al por Menor en Tiendas de Autoservicio y Departamentales,46,Comercio al por Menor,2022,129105,1256144
+463,"Comercio al por Menor de Productos Textiles, Bisutería, Accesorios de Vestir y Calzado",46,Comercio al por Menor,2015,260031,135960
+463,"Comercio al por Menor de Productos Textiles, Bisutería, Accesorios de Vestir y Calzado",46,Comercio al por Menor,2016,530483,251568
+463,"Comercio al por Menor de Productos Textiles, Bisutería, Accesorios de Vestir y Calzado",46,Comercio al por Menor,2017,534588,244138
+463,"Comercio al por Menor de Productos Textiles, Bisutería, Accesorios de Vestir y Calzado",46,Comercio al por Menor,2018,535527,489160
+463,"Comercio al por Menor de Productos Textiles, Bisutería, Accesorios de Vestir y Calzado",46,Comercio al por Menor,2019,549241,676190
+463,"Comercio al por Menor de Productos Textiles, Bisutería, Accesorios de Vestir y Calzado",46,Comercio al por Menor,2020,560941,509646
+463,"Comercio al por Menor de Productos Textiles, Bisutería, Accesorios de Vestir y Calzado",46,Comercio al por Menor,2021,558944,281158
+463,"Comercio al por Menor de Productos Textiles, Bisutería, Accesorios de Vestir y Calzado",46,Comercio al por Menor,2022,560019,281080
+464,Comercio al por Menor de Artículos para el Cuidado de la Salud,46,Comercio al por Menor,2015,89209,124548
+464,Comercio al por Menor de Artículos para el Cuidado de la Salud,46,Comercio al por Menor,2016,181260,207610
+464,Comercio al por Menor de Artículos para el Cuidado de la Salud,46,Comercio al por Menor,2017,184677,222503
+464,Comercio al por Menor de Artículos para el Cuidado de la Salud,46,Comercio al por Menor,2018,186198,239139
+464,Comercio al por Menor de Artículos para el Cuidado de la Salud,46,Comercio al por Menor,2019,191001,236863
+464,Comercio al por Menor de Artículos para el Cuidado de la Salud,46,Comercio al por Menor,2020,199812,262270
+464,Comercio al por Menor de Artículos para el Cuidado de la Salud,46,Comercio al por Menor,2021,201767,254687
+464,Comercio al por Menor de Artículos para el Cuidado de la Salud,46,Comercio al por Menor,2022,202132,255123
+465,"Comercio al por Menor de Artículos de Papelería, para el Esparcimiento y otros Artículos de Uso Personal",46,Comercio al por Menor,2015,289048,73853
+465,"Comercio al por Menor de Artículos de Papelería, para el Esparcimiento y otros Artículos de Uso Personal",46,Comercio al por Menor,2016,581651,152871
+465,"Comercio al por Menor de Artículos de Papelería, para el Esparcimiento y otros Artículos de Uso Personal",46,Comercio al por Menor,2017,582745,160880
+465,"Comercio al por Menor de Artículos de Papelería, para el Esparcimiento y otros Artículos de Uso Personal",46,Comercio al por Menor,2018,583518,217531
+465,"Comercio al por Menor de Artículos de Papelería, para el Esparcimiento y otros Artículos de Uso Personal",46,Comercio al por Menor,2019,603301,243568
+465,"Comercio al por Menor de Artículos de Papelería, para el Esparcimiento y otros Artículos de Uso Personal",46,Comercio al por Menor,2020,632022,230579
+465,"Comercio al por Menor de Artículos de Papelería, para el Esparcimiento y otros Artículos de Uso Personal",46,Comercio al por Menor,2021,633291,189527
+465,"Comercio al por Menor de Artículos de Papelería, para el Esparcimiento y otros Artículos de Uso Personal",46,Comercio al por Menor,2022,634095,189246
+466,"Comercio al por Menor de Enseres Domésticos, Computadoras, Artículos para la Decoración de Interiores y Artículos Usados",46,Comercio al por Menor,2015,155164,103370
+466,"Comercio al por Menor de Enseres Domésticos, Computadoras, Artículos para la Decoración de Interiores y Artículos Usados",46,Comercio al por Menor,2016,315226,212814
+466,"Comercio al por Menor de Enseres Domésticos, Computadoras, Artículos para la Decoración de Interiores y Artículos Usados",46,Comercio al por Menor,2017,316305,221303
+466,"Comercio al por Menor de Enseres Domésticos, Computadoras, Artículos para la Decoración de Interiores y Artículos Usados",46,Comercio al por Menor,2018,316687,268206
+466,"Comercio al por Menor de Enseres Domésticos, Computadoras, Artículos para la Decoración de Interiores y Artículos Usados",46,Comercio al por Menor,2019,323826,308248
+466,"Comercio al por Menor de Enseres Domésticos, Computadoras, Artículos para la Decoración de Interiores y Artículos Usados",46,Comercio al por Menor,2020,337953,284259
+466,"Comercio al por Menor de Enseres Domésticos, Computadoras, Artículos para la Decoración de Interiores y Artículos Usados",46,Comercio al por Menor,2021,337636,236885
+466,"Comercio al por Menor de Enseres Domésticos, Computadoras, Artículos para la Decoración de Interiores y Artículos Usados",46,Comercio al por Menor,2022,338397,236194
+467,"Comercio al por Menor de Artículos de Ferretería, Tlapalería y Vidrios",46,Comercio al por Menor,2015,115026,92984
+467,"Comercio al por Menor de Artículos de Ferretería, Tlapalería y Vidrios",46,Comercio al por Menor,2016,239768,205295
+467,"Comercio al por Menor de Artículos de Ferretería, Tlapalería y Vidrios",46,Comercio al por Menor,2017,240727,214900
+467,"Comercio al por Menor de Artículos de Ferretería, Tlapalería y Vidrios",46,Comercio al por Menor,2018,241204,267950
+467,"Comercio al por Menor de Artículos de Ferretería, Tlapalería y Vidrios",46,Comercio al por Menor,2019,253002,328747
+467,"Comercio al por Menor de Artículos de Ferretería, Tlapalería y Vidrios",46,Comercio al por Menor,2020,273551,316541
+467,"Comercio al por Menor de Artículos de Ferretería, Tlapalería y Vidrios",46,Comercio al por Menor,2021,274940,275394
+467,"Comercio al por Menor de Artículos de Ferretería, Tlapalería y Vidrios",46,Comercio al por Menor,2022,275449,275233
+468,"Comercio al por Menor de Vehículos de Motor, Refacciones, Combustibles y Lubricantes",46,Comercio al por Menor,2015,83294,291569
+468,"Comercio al por Menor de Vehículos de Motor, Refacciones, Combustibles y Lubricantes",46,Comercio al por Menor,2016,179787,619472
+468,"Comercio al por Menor de Vehículos de Motor, Refacciones, Combustibles y Lubricantes",46,Comercio al por Menor,2017,183105,618119
+468,"Comercio al por Menor de Vehículos de Motor, Refacciones, Combustibles y Lubricantes",46,Comercio al por Menor,2018,184019,676871
+468,"Comercio al por Menor de Vehículos de Motor, Refacciones, Combustibles y Lubricantes",46,Comercio al por Menor,2019,191172,778503
+468,"Comercio al por Menor de Vehículos de Motor, Refacciones, Combustibles y Lubricantes",46,Comercio al por Menor,2020,197344,780012
+468,"Comercio al por Menor de Vehículos de Motor, Refacciones, Combustibles y Lubricantes",46,Comercio al por Menor,2021,199131,782540
+468,"Comercio al por Menor de Vehículos de Motor, Refacciones, Combustibles y Lubricantes",46,Comercio al por Menor,2022,199584,781391
+469,"Comercio al por Menor Exclusivamente a Través de Internet, y Catálogos Impresos, Televisión y Similares",46,Comercio al por Menor,2015,1024,4883
+469,"Comercio al por Menor Exclusivamente a Través de Internet, y Catálogos Impresos, Televisión y Similares",46,Comercio al por Menor,2016,2604,8551
+469,"Comercio al por Menor Exclusivamente a Través de Internet, y Catálogos Impresos, Televisión y Similares",46,Comercio al por Menor,2017,2732,8208
+469,"Comercio al por Menor Exclusivamente a Través de Internet, y Catálogos Impresos, Televisión y Similares",46,Comercio al por Menor,2018,2718,8256
+469,"Comercio al por Menor Exclusivamente a Través de Internet, y Catálogos Impresos, Televisión y Similares",46,Comercio al por Menor,2019,2320,7715
+469,"Comercio al por Menor Exclusivamente a Través de Internet, y Catálogos Impresos, Televisión y Similares",46,Comercio al por Menor,2020,932,6208
+469,"Comercio al por Menor Exclusivamente a Través de Internet, y Catálogos Impresos, Televisión y Similares",46,Comercio al por Menor,2021,862,6969
+469,"Comercio al por Menor Exclusivamente a Través de Internet, y Catálogos Impresos, Televisión y Similares",46,Comercio al por Menor,2022,864,6942
+481,Transporte Aéreo,48-49,"Transportes, Correos y Almacenamiento",2015,280,5511
+481,Transporte Aéreo,48-49,"Transportes, Correos y Almacenamiento",2016,764,12489
+481,Transporte Aéreo,48-49,"Transportes, Correos y Almacenamiento",2017,850,18797
+481,Transporte Aéreo,48-49,"Transportes, Correos y Almacenamiento",2018,856,18664
+481,Transporte Aéreo,48-49,"Transportes, Correos y Almacenamiento",2019,768,15646
+481,Transporte Aéreo,48-49,"Transportes, Correos y Almacenamiento",2020,846,17097
+481,Transporte Aéreo,48-49,"Transportes, Correos y Almacenamiento",2021,952,20662
+481,Transporte Aéreo,48-49,"Transportes, Correos y Almacenamiento",2022,950,20923
+482,Transporte por Ferrocarril,48-49,"Transportes, Correos y Almacenamiento",2015,108,4411
+482,Transporte por Ferrocarril,48-49,"Transportes, Correos y Almacenamiento",2016,289,13368
+482,Transporte por Ferrocarril,48-49,"Transportes, Correos y Almacenamiento",2017,295,13351
+482,Transporte por Ferrocarril,48-49,"Transportes, Correos y Almacenamiento",2018,294,13250
+482,Transporte por Ferrocarril,48-49,"Transportes, Correos y Almacenamiento",2019,192,8220
+482,Transporte por Ferrocarril,48-49,"Transportes, Correos y Almacenamiento",2020,124,6369
+482,Transporte por Ferrocarril,48-49,"Transportes, Correos y Almacenamiento",2021,156,7994
+482,Transporte por Ferrocarril,48-49,"Transportes, Correos y Almacenamiento",2022,156,7994
+483,Transporte por Agua,48-49,"Transportes, Correos y Almacenamiento",2015,42,214
+483,Transporte por Agua,48-49,"Transportes, Correos y Almacenamiento",2016,623,8691
+483,Transporte por Agua,48-49,"Transportes, Correos y Almacenamiento",2017,637,9167
+483,Transporte por Agua,48-49,"Transportes, Correos y Almacenamiento",2018,640,9530
+483,Transporte por Agua,48-49,"Transportes, Correos y Almacenamiento",2019,537,6995
+483,Transporte por Agua,48-49,"Transportes, Correos y Almacenamiento",2020,509,7536
+483,Transporte por Agua,48-49,"Transportes, Correos y Almacenamiento",2021,525,10138
+483,Transporte por Agua,48-49,"Transportes, Correos y Almacenamiento",2022,538,9915
+484,Autotransporte de Carga,48-49,"Transportes, Correos y Almacenamiento",2015,9311,147428
+484,Autotransporte de Carga,48-49,"Transportes, Correos y Almacenamiento",2016,21115,305812
+484,Autotransporte de Carga,48-49,"Transportes, Correos y Almacenamiento",2017,21421,313361
+484,Autotransporte de Carga,48-49,"Transportes, Correos y Almacenamiento",2018,21474,314942
+484,Autotransporte de Carga,48-49,"Transportes, Correos y Almacenamiento",2019,20771,338165
+484,Autotransporte de Carga,48-49,"Transportes, Correos y Almacenamiento",2020,23319,372501
+484,Autotransporte de Carga,48-49,"Transportes, Correos y Almacenamiento",2021,22832,379270
+484,Autotransporte de Carga,48-49,"Transportes, Correos y Almacenamiento",2022,22799,378122
+485,"Transporte Terrestre de Pasajeros, Excepto por Ferrocarril",48-49,"Transportes, Correos y Almacenamiento",2015,8727,134310
+485,"Transporte Terrestre de Pasajeros, Excepto por Ferrocarril",48-49,"Transportes, Correos y Almacenamiento",2016,19043,305968
+485,"Transporte Terrestre de Pasajeros, Excepto por Ferrocarril",48-49,"Transportes, Correos y Almacenamiento",2017,19123,311033
+485,"Transporte Terrestre de Pasajeros, Excepto por Ferrocarril",48-49,"Transportes, Correos y Almacenamiento",2018,19142,312402
+485,"Transporte Terrestre de Pasajeros, Excepto por Ferrocarril",48-49,"Transportes, Correos y Almacenamiento",2019,21102,356128
+485,"Transporte Terrestre de Pasajeros, Excepto por Ferrocarril",48-49,"Transportes, Correos y Almacenamiento",2020,23713,378580
+485,"Transporte Terrestre de Pasajeros, Excepto por Ferrocarril",48-49,"Transportes, Correos y Almacenamiento",2021,20459,352944
+485,"Transporte Terrestre de Pasajeros, Excepto por Ferrocarril",48-49,"Transportes, Correos y Almacenamiento",2022,20408,351897
+486,Transporte por Ductos,48-49,"Transportes, Correos y Almacenamiento",2015,10,253
+486,Transporte por Ductos,48-49,"Transportes, Correos y Almacenamiento",2016,87,6115
+486,Transporte por Ductos,48-49,"Transportes, Correos y Almacenamiento",2017,101,6504
+486,Transporte por Ductos,48-49,"Transportes, Correos y Almacenamiento",2018,112,6620
+486,Transporte por Ductos,48-49,"Transportes, Correos y Almacenamiento",2019,85,3906
+486,Transporte por Ductos,48-49,"Transportes, Correos y Almacenamiento",2020,101,4544
+486,Transporte por Ductos,48-49,"Transportes, Correos y Almacenamiento",2021,133,7495
+486,Transporte por Ductos,48-49,"Transportes, Correos y Almacenamiento",2022,131,7478
+487,Transporte Turístico,48-49,"Transportes, Correos y Almacenamiento",2015,796,8138
+487,Transporte Turístico,48-49,"Transportes, Correos y Almacenamiento",2016,2318,10409
+487,Transporte Turístico,48-49,"Transportes, Correos y Almacenamiento",2017,2369,10879
+487,Transporte Turístico,48-49,"Transportes, Correos y Almacenamiento",2018,2378,10946
+487,Transporte Turístico,48-49,"Transportes, Correos y Almacenamiento",2019,2212,12481
+487,Transporte Turístico,48-49,"Transportes, Correos y Almacenamiento",2020,2294,14188
+487,Transporte Turístico,48-49,"Transportes, Correos y Almacenamiento",2021,2292,16464
+487,Transporte Turístico,48-49,"Transportes, Correos y Almacenamiento",2022,2287,16458
+488,Servicios Relacionados con el Transporte,48-49,"Transportes, Correos y Almacenamiento",2015,6193,63400
+488,Servicios Relacionados con el Transporte,48-49,"Transportes, Correos y Almacenamiento",2016,13879,136545
+488,Servicios Relacionados con el Transporte,48-49,"Transportes, Correos y Almacenamiento",2017,14504,140459
+488,Servicios Relacionados con el Transporte,48-49,"Transportes, Correos y Almacenamiento",2018,14805,144858
+488,Servicios Relacionados con el Transporte,48-49,"Transportes, Correos y Almacenamiento",2019,15207,169602
+488,Servicios Relacionados con el Transporte,48-49,"Transportes, Correos y Almacenamiento",2020,15638,208550
+488,Servicios Relacionados con el Transporte,48-49,"Transportes, Correos y Almacenamiento",2021,16341,239232
+488,Servicios Relacionados con el Transporte,48-49,"Transportes, Correos y Almacenamiento",2022,16273,235863
+491,Servicios Postales,48-49,"Transportes, Correos y Almacenamiento",2015,497,1698
+491,Servicios Postales,48-49,"Transportes, Correos y Almacenamiento",2016,3591,31083
+491,Servicios Postales,48-49,"Transportes, Correos y Almacenamiento",2017,3596,30998
+491,Servicios Postales,48-49,"Transportes, Correos y Almacenamiento",2018,3596,30998
+491,Servicios Postales,48-49,"Transportes, Correos y Almacenamiento",2019,3246,24118
+491,Servicios Postales,48-49,"Transportes, Correos y Almacenamiento",2020,3097,19132
+491,Servicios Postales,48-49,"Transportes, Correos y Almacenamiento",2021,3295,19132
+491,Servicios Postales,48-49,"Transportes, Correos y Almacenamiento",2022,3293,19101
+492,Servicios de Mensajería y Paquetería,48-49,"Transportes, Correos y Almacenamiento",2015,3298,22470
+492,Servicios de Mensajería y Paquetería,48-49,"Transportes, Correos y Almacenamiento",2016,7082,44766
+492,Servicios de Mensajería y Paquetería,48-49,"Transportes, Correos y Almacenamiento",2017,7284,49279
+492,Servicios de Mensajería y Paquetería,48-49,"Transportes, Correos y Almacenamiento",2018,7342,50316
+492,Servicios de Mensajería y Paquetería,48-49,"Transportes, Correos y Almacenamiento",2019,6884,64561
+492,Servicios de Mensajería y Paquetería,48-49,"Transportes, Correos y Almacenamiento",2020,8685,47617
+492,Servicios de Mensajería y Paquetería,48-49,"Transportes, Correos y Almacenamiento",2021,8847,47300
+492,Servicios de Mensajería y Paquetería,48-49,"Transportes, Correos y Almacenamiento",2022,8858,47355
+493,Servicios de Almacenamiento,48-49,"Transportes, Correos y Almacenamiento",2015,2204,10794
+493,Servicios de Almacenamiento,48-49,"Transportes, Correos y Almacenamiento",2016,4656,28851
+493,Servicios de Almacenamiento,48-49,"Transportes, Correos y Almacenamiento",2017,4950,30988
+493,Servicios de Almacenamiento,48-49,"Transportes, Correos y Almacenamiento",2018,4962,30754
+493,Servicios de Almacenamiento,48-49,"Transportes, Correos y Almacenamiento",2019,4262,40157
+493,Servicios de Almacenamiento,48-49,"Transportes, Correos y Almacenamiento",2020,2762,39643
+493,Servicios de Almacenamiento,48-49,"Transportes, Correos y Almacenamiento",2021,2628,40271
+493,Servicios de Almacenamiento,48-49,"Transportes, Correos y Almacenamiento",2022,2647,41216
+511,"Edición de Periódicos, Revistas, Libros, Software y otros Materiales, y Edición de estas Publicaciones Integrada con la Impresión",51,Información en Medios Masivos,2015,1569,28397
+511,"Edición de Periódicos, Revistas, Libros, Software y otros Materiales, y Edición de estas Publicaciones Integrada con la Impresión",51,Información en Medios Masivos,2016,3327,57888
+511,"Edición de Periódicos, Revistas, Libros, Software y otros Materiales, y Edición de estas Publicaciones Integrada con la Impresión",51,Información en Medios Masivos,2017,3427,60898
+511,"Edición de Periódicos, Revistas, Libros, Software y otros Materiales, y Edición de estas Publicaciones Integrada con la Impresión",51,Información en Medios Masivos,2018,3428,59505
+511,"Edición de Periódicos, Revistas, Libros, Software y otros Materiales, y Edición de estas Publicaciones Integrada con la Impresión",51,Información en Medios Masivos,2019,3330,54685
+511,"Edición de Periódicos, Revistas, Libros, Software y otros Materiales, y Edición de estas Publicaciones Integrada con la Impresión",51,Información en Medios Masivos,2020,3280,54672
+511,"Edición de Periódicos, Revistas, Libros, Software y otros Materiales, y Edición de estas Publicaciones Integrada con la Impresión",51,Información en Medios Masivos,2021,3150,56162
+511,"Edición de Periódicos, Revistas, Libros, Software y otros Materiales, y Edición de estas Publicaciones Integrada con la Impresión",51,Información en Medios Masivos,2022,3148,55888
+512,"Industria Fílmica y del Video, e Industria del Sonido",51,Información en Medios Masivos,2015,1369,28732
+512,"Industria Fílmica y del Video, e Industria del Sonido",51,Información en Medios Masivos,2016,2939,58698
+512,"Industria Fílmica y del Video, e Industria del Sonido",51,Información en Medios Masivos,2017,3297,60391
+512,"Industria Fílmica y del Video, e Industria del Sonido",51,Información en Medios Masivos,2018,3241,57059
+512,"Industria Fílmica y del Video, e Industria del Sonido",51,Información en Medios Masivos,2019,3200,55018
+512,"Industria Fílmica y del Video, e Industria del Sonido",51,Información en Medios Masivos,2020,3358,61781
+512,"Industria Fílmica y del Video, e Industria del Sonido",51,Información en Medios Masivos,2021,3443,65760
+512,"Industria Fílmica y del Video, e Industria del Sonido",51,Información en Medios Masivos,2022,3445,65667
+515,Radio y Televisión,51,Información en Medios Masivos,2015,1654,18354
+515,Radio y Televisión,51,Información en Medios Masivos,2016,3386,36794
+515,Radio y Televisión,51,Información en Medios Masivos,2017,3672,35435
+515,Radio y Televisión,51,Información en Medios Masivos,2018,3739,35660
+515,Radio y Televisión,51,Información en Medios Masivos,2019,3716,34878
+515,Radio y Televisión,51,Información en Medios Masivos,2020,3724,41196
+515,Radio y Televisión,51,Información en Medios Masivos,2021,3871,44500
+515,Radio y Televisión,51,Información en Medios Masivos,2022,3870,44211
+517,Telecomunicaciones,51,Información en Medios Masivos,2015,8067,28391
+517,Telecomunicaciones,51,Información en Medios Masivos,2016,18857,91324
+517,Telecomunicaciones,51,Información en Medios Masivos,2017,20019,109098
+517,Telecomunicaciones,51,Información en Medios Masivos,2018,20092,109334
+517,Telecomunicaciones,51,Información en Medios Masivos,2019,15379,79313
+517,Telecomunicaciones,51,Información en Medios Masivos,2020,18087,86402
+517,Telecomunicaciones,51,Información en Medios Masivos,2021,21378,103965
+517,Telecomunicaciones,51,Información en Medios Masivos,2022,21466,104051
+518,"Procesamiento Electrónico de Información, Hospedaje y otros Servicios Relacionados",51,Información en Medios Masivos,2015,305,5723
+518,"Procesamiento Electrónico de Información, Hospedaje y otros Servicios Relacionados",51,Información en Medios Masivos,2016,717,14298
+518,"Procesamiento Electrónico de Información, Hospedaje y otros Servicios Relacionados",51,Información en Medios Masivos,2017,778,16228
+518,"Procesamiento Electrónico de Información, Hospedaje y otros Servicios Relacionados",51,Información en Medios Masivos,2018,796,16062
+518,"Procesamiento Electrónico de Información, Hospedaje y otros Servicios Relacionados",51,Información en Medios Masivos,2019,628,15375
+518,"Procesamiento Electrónico de Información, Hospedaje y otros Servicios Relacionados",51,Información en Medios Masivos,2020,507,15703
+518,"Procesamiento Electrónico de Información, Hospedaje y otros Servicios Relacionados",51,Información en Medios Masivos,2021,593,18857
+518,"Procesamiento Electrónico de Información, Hospedaje y otros Servicios Relacionados",51,Información en Medios Masivos,2022,595,19178
+519,Otros Servicios de Información,51,Información en Medios Masivos,2015,4979,13361
+519,Otros Servicios de Información,51,Información en Medios Masivos,2016,9977,19526
+519,Otros Servicios de Información,51,Información en Medios Masivos,2017,9989,18898
+519,Otros Servicios de Información,51,Información en Medios Masivos,2018,9991,19230
+519,Otros Servicios de Información,51,Información en Medios Masivos,2019,9945,20944
+519,Otros Servicios de Información,51,Información en Medios Masivos,2020,10037,19981
+519,Otros Servicios de Información,51,Información en Medios Masivos,2021,10016,20117
+519,Otros Servicios de Información,51,Información en Medios Masivos,2022,9996,20088
+521,Banca Central,52,Servicios Financieros y de Seguros,2015,22,608
+521,Banca Central,52,Servicios Financieros y de Seguros,2016,29,2418
+521,Banca Central,52,Servicios Financieros y de Seguros,2017,30,2424
+521,Banca Central,52,Servicios Financieros y de Seguros,2018,30,2424
+521,Banca Central,52,Servicios Financieros y de Seguros,2019,16,1463
+521,Banca Central,52,Servicios Financieros y de Seguros,2020,42,5051
+521,Banca Central,52,Servicios Financieros y de Seguros,2021,48,4956
+521,Banca Central,52,Servicios Financieros y de Seguros,2022,48,4956
+522,Instituciones de Intermediación Crediticia y Financiera no Bursátil,52,Servicios Financieros y de Seguros,2015,42076,160982
+522,Instituciones de Intermediación Crediticia y Financiera no Bursátil,52,Servicios Financieros y de Seguros,2016,88198,339715
+522,Instituciones de Intermediación Crediticia y Financiera no Bursátil,52,Servicios Financieros y de Seguros,2017,89040,348443
+522,Instituciones de Intermediación Crediticia y Financiera no Bursátil,52,Servicios Financieros y de Seguros,2018,135712,349620
+522,Instituciones de Intermediación Crediticia y Financiera no Bursátil,52,Servicios Financieros y de Seguros,2019,158086,280684
+522,Instituciones de Intermediación Crediticia y Financiera no Bursátil,52,Servicios Financieros y de Seguros,2020,177796,456573
+522,Instituciones de Intermediación Crediticia y Financiera no Bursátil,52,Servicios Financieros y de Seguros,2021,181755,489992
+522,Instituciones de Intermediación Crediticia y Financiera no Bursátil,52,Servicios Financieros y de Seguros,2022,181682,489000
+523,"Actividades Bursátiles, Cambiarias y de Inversión Financiera",52,Servicios Financieros y de Seguros,2015,3630,3961
+523,"Actividades Bursátiles, Cambiarias y de Inversión Financiera",52,Servicios Financieros y de Seguros,2016,8032,18747
+523,"Actividades Bursátiles, Cambiarias y de Inversión Financiera",52,Servicios Financieros y de Seguros,2017,8253,19663
+523,"Actividades Bursátiles, Cambiarias y de Inversión Financiera",52,Servicios Financieros y de Seguros,2018,8209,19706
+523,"Actividades Bursátiles, Cambiarias y de Inversión Financiera",52,Servicios Financieros y de Seguros,2019,7448,17150
+523,"Actividades Bursátiles, Cambiarias y de Inversión Financiera",52,Servicios Financieros y de Seguros,2020,7204,17869
+523,"Actividades Bursátiles, Cambiarias y de Inversión Financiera",52,Servicios Financieros y de Seguros,2021,7461,20481
+523,"Actividades Bursátiles, Cambiarias y de Inversión Financiera",52,Servicios Financieros y de Seguros,2022,7446,20464
+524,"Compañías de Seguros, Fianzas, y Administración de Fondos para el Retiro",52,Servicios Financieros y de Seguros,2015,6431,30525
+524,"Compañías de Seguros, Fianzas, y Administración de Fondos para el Retiro",52,Servicios Financieros y de Seguros,2016,13583,81620
+524,"Compañías de Seguros, Fianzas, y Administración de Fondos para el Retiro",52,Servicios Financieros y de Seguros,2017,13792,84021
+524,"Compañías de Seguros, Fianzas, y Administración de Fondos para el Retiro",52,Servicios Financieros y de Seguros,2018,13822,84494
+524,"Compañías de Seguros, Fianzas, y Administración de Fondos para el Retiro",52,Servicios Financieros y de Seguros,2019,13011,75478
+524,"Compañías de Seguros, Fianzas, y Administración de Fondos para el Retiro",52,Servicios Financieros y de Seguros,2020,14094,92934
+524,"Compañías de Seguros, Fianzas, y Administración de Fondos para el Retiro",52,Servicios Financieros y de Seguros,2021,15378,111800
+524,"Compañías de Seguros, Fianzas, y Administración de Fondos para el Retiro",52,Servicios Financieros y de Seguros,2022,15379,110965
+525,Sociedades de Inversión Especializadas en Fondos para el Retiro y Fondos de Inversión,52,Servicios Financieros y de Seguros,2018,83,168
+525,Sociedades de Inversión Especializadas en Fondos para el Retiro y Fondos de Inversión,52,Servicios Financieros y de Seguros,2019,133,383
+525,Sociedades de Inversión Especializadas en Fondos para el Retiro y Fondos de Inversión,52,Servicios Financieros y de Seguros,2020,80,92
+525,Sociedades de Inversión Especializadas en Fondos para el Retiro y Fondos de Inversión,52,Servicios Financieros y de Seguros,2021,177,294
+525,Sociedades de Inversión Especializadas en Fondos para el Retiro y Fondos de Inversión,52,Servicios Financieros y de Seguros,2022,178,294
+531,Servicios Inmobiliarios,53,Servicios Inmobiliarios y de Alquiler de Bienes Muebles e Intangibles,2015,40956,74353
+531,Servicios Inmobiliarios,53,Servicios Inmobiliarios y de Alquiler de Bienes Muebles e Intangibles,2016,84336,135473
+531,Servicios Inmobiliarios,53,Servicios Inmobiliarios y de Alquiler de Bienes Muebles e Intangibles,2017,85921,141611
+531,Servicios Inmobiliarios,53,Servicios Inmobiliarios y de Alquiler de Bienes Muebles e Intangibles,2018,86407,144415
+531,Servicios Inmobiliarios,53,Servicios Inmobiliarios y de Alquiler de Bienes Muebles e Intangibles,2019,88454,166948
+531,Servicios Inmobiliarios,53,Servicios Inmobiliarios y de Alquiler de Bienes Muebles e Intangibles,2020,91912,187383
+531,Servicios Inmobiliarios,53,Servicios Inmobiliarios y de Alquiler de Bienes Muebles e Intangibles,2021,91503,201933
+531,Servicios Inmobiliarios,53,Servicios Inmobiliarios y de Alquiler de Bienes Muebles e Intangibles,2022,91548,200751
+532,Servicios de Alquiler de Bienes Muebles,53,Servicios Inmobiliarios y de Alquiler de Bienes Muebles e Intangibles,2015,26232,38253
+532,Servicios de Alquiler de Bienes Muebles,53,Servicios Inmobiliarios y de Alquiler de Bienes Muebles e Intangibles,2016,53309,75666
+532,Servicios de Alquiler de Bienes Muebles,53,Servicios Inmobiliarios y de Alquiler de Bienes Muebles e Intangibles,2017,53200,70054
+532,Servicios de Alquiler de Bienes Muebles,53,Servicios Inmobiliarios y de Alquiler de Bienes Muebles e Intangibles,2018,53333,71013
+532,Servicios de Alquiler de Bienes Muebles,53,Servicios Inmobiliarios y de Alquiler de Bienes Muebles e Intangibles,2019,52624,75115
+532,Servicios de Alquiler de Bienes Muebles,53,Servicios Inmobiliarios y de Alquiler de Bienes Muebles e Intangibles,2020,52436,83047
+532,Servicios de Alquiler de Bienes Muebles,53,Servicios Inmobiliarios y de Alquiler de Bienes Muebles e Intangibles,2021,52152,88277
+532,Servicios de Alquiler de Bienes Muebles,53,Servicios Inmobiliarios y de Alquiler de Bienes Muebles e Intangibles,2022,52225,87748
+533,"Servicios de Alquiler de Marcas Registradas, Patentes y Franquicias",53,Servicios Inmobiliarios y de Alquiler de Bienes Muebles e Intangibles,2015,57,614
+533,"Servicios de Alquiler de Marcas Registradas, Patentes y Franquicias",53,Servicios Inmobiliarios y de Alquiler de Bienes Muebles e Intangibles,2016,122,1273
+533,"Servicios de Alquiler de Marcas Registradas, Patentes y Franquicias",53,Servicios Inmobiliarios y de Alquiler de Bienes Muebles e Intangibles,2017,125,1247
+533,"Servicios de Alquiler de Marcas Registradas, Patentes y Franquicias",53,Servicios Inmobiliarios y de Alquiler de Bienes Muebles e Intangibles,2018,130,1264
+533,"Servicios de Alquiler de Marcas Registradas, Patentes y Franquicias",53,Servicios Inmobiliarios y de Alquiler de Bienes Muebles e Intangibles,2019,124,1253
+533,"Servicios de Alquiler de Marcas Registradas, Patentes y Franquicias",53,Servicios Inmobiliarios y de Alquiler de Bienes Muebles e Intangibles,2020,120,889
+533,"Servicios de Alquiler de Marcas Registradas, Patentes y Franquicias",53,Servicios Inmobiliarios y de Alquiler de Bienes Muebles e Intangibles,2021,128,890
+533,"Servicios de Alquiler de Marcas Registradas, Patentes y Franquicias",53,Servicios Inmobiliarios y de Alquiler de Bienes Muebles e Intangibles,2022,129,896
+541,"Servicios Profesionales, Científicos y Técnicos",54,"Servicios Profesionales, Científicos y Técnicos",2015,97923,312300
+541,"Servicios Profesionales, Científicos y Técnicos",54,"Servicios Profesionales, Científicos y Técnicos",2016,199837,559107
+541,"Servicios Profesionales, Científicos y Técnicos",54,"Servicios Profesionales, Científicos y Técnicos",2017,203869,607086
+541,"Servicios Profesionales, Científicos y Técnicos",54,"Servicios Profesionales, Científicos y Técnicos",2018,204845,615211
+541,"Servicios Profesionales, Científicos y Técnicos",54,"Servicios Profesionales, Científicos y Técnicos",2019,210984,836507
+541,"Servicios Profesionales, Científicos y Técnicos",54,"Servicios Profesionales, Científicos y Técnicos",2020,215083,905819
+541,"Servicios Profesionales, Científicos y Técnicos",54,"Servicios Profesionales, Científicos y Técnicos",2021,215524,916105
+541,"Servicios Profesionales, Científicos y Técnicos",54,"Servicios Profesionales, Científicos y Técnicos",2022,215701,901831
+551,Corporativos,55,Corporativos,2015,461,18939
+551,Corporativos,55,Corporativos,2016,863,25166
+551,Corporativos,55,Corporativos,2017,834,23065
+551,Corporativos,55,Corporativos,2018,834,22802
+551,Corporativos,55,Corporativos,2019,972,24789
+551,Corporativos,55,Corporativos,2020,1002,24763
+551,Corporativos,55,Corporativos,2021,1260,29449
+551,Corporativos,55,Corporativos,2022,1247,28509
+561,Servicios de Apoyo a los Negocios,56,"Servicios de Apoyo a los Negocios y Manejo de Residuos, y Servicios de Remediación",2015,101580,593031
+561,Servicios de Apoyo a los Negocios,56,"Servicios de Apoyo a los Negocios y Manejo de Residuos, y Servicios de Remediación",2016,207740,1096438
+561,Servicios de Apoyo a los Negocios,56,"Servicios de Apoyo a los Negocios y Manejo de Residuos, y Servicios de Remediación",2017,210205,1129447
+561,Servicios de Apoyo a los Negocios,56,"Servicios de Apoyo a los Negocios y Manejo de Residuos, y Servicios de Remediación",2018,210924,1142473
+561,Servicios de Apoyo a los Negocios,56,"Servicios de Apoyo a los Negocios y Manejo de Residuos, y Servicios de Remediación",2019,185738,1447066
+561,Servicios de Apoyo a los Negocios,56,"Servicios de Apoyo a los Negocios y Manejo de Residuos, y Servicios de Remediación",2020,160824,1576033
+561,Servicios de Apoyo a los Negocios,56,"Servicios de Apoyo a los Negocios y Manejo de Residuos, y Servicios de Remediación",2021,161327,1600986
+561,Servicios de Apoyo a los Negocios,56,"Servicios de Apoyo a los Negocios y Manejo de Residuos, y Servicios de Remediación",2022,160973,1506483
+562,Manejo de Residuos y Servicios de Remediación,56,"Servicios de Apoyo a los Negocios y Manejo de Residuos, y Servicios de Remediación",2015,735,11760
+562,Manejo de Residuos y Servicios de Remediación,56,"Servicios de Apoyo a los Negocios y Manejo de Residuos, y Servicios de Remediación",2016,1701,25309
+562,Manejo de Residuos y Servicios de Remediación,56,"Servicios de Apoyo a los Negocios y Manejo de Residuos, y Servicios de Remediación",2017,1817,27950
+562,Manejo de Residuos y Servicios de Remediación,56,"Servicios de Apoyo a los Negocios y Manejo de Residuos, y Servicios de Remediación",2018,1856,29102
+562,Manejo de Residuos y Servicios de Remediación,56,"Servicios de Apoyo a los Negocios y Manejo de Residuos, y Servicios de Remediación",2019,2110,35849
+562,Manejo de Residuos y Servicios de Remediación,56,"Servicios de Apoyo a los Negocios y Manejo de Residuos, y Servicios de Remediación",2020,2509,42494
+562,Manejo de Residuos y Servicios de Remediación,56,"Servicios de Apoyo a los Negocios y Manejo de Residuos, y Servicios de Remediación",2021,2522,43292
+562,Manejo de Residuos y Servicios de Remediación,56,"Servicios de Apoyo a los Negocios y Manejo de Residuos, y Servicios de Remediación",2022,2529,42533
+611,Servicios Educativos,61,Servicios Educativos,2015,139966,1557386
+611,Servicios Educativos,61,Servicios Educativos,2016,279769,3117792
+611,Servicios Educativos,61,Servicios Educativos,2017,281022,3105375
+611,Servicios Educativos,61,Servicios Educativos,2018,281337,3114297
+611,Servicios Educativos,61,Servicios Educativos,2019,284983,3220043
+611,Servicios Educativos,61,Servicios Educativos,2020,298762,3399688
+611,Servicios Educativos,61,Servicios Educativos,2021,296808,3408984
+611,Servicios Educativos,61,Servicios Educativos,2022,296632,3404477
+621,Servicios Médicos de Consulta Externa y Servicios Relacionados,62,Servicios de Salud y de Asistencia Social,2015,155028,167917
+621,Servicios Médicos de Consulta Externa y Servicios Relacionados,62,Servicios de Salud y de Asistencia Social,2016,316456,366573
+621,Servicios Médicos de Consulta Externa y Servicios Relacionados,62,Servicios de Salud y de Asistencia Social,2017,317428,375510
+621,Servicios Médicos de Consulta Externa y Servicios Relacionados,62,Servicios de Salud y de Asistencia Social,2018,317637,377409
+621,Servicios Médicos de Consulta Externa y Servicios Relacionados,62,Servicios de Salud y de Asistencia Social,2019,344854,450781
+621,Servicios Médicos de Consulta Externa y Servicios Relacionados,62,Servicios de Salud y de Asistencia Social,2020,374689,479153
+621,Servicios Médicos de Consulta Externa y Servicios Relacionados,62,Servicios de Salud y de Asistencia Social,2021,374157,479688
+621,Servicios Médicos de Consulta Externa y Servicios Relacionados,62,Servicios de Salud y de Asistencia Social,2022,374666,479666
+622,Hospitales,62,Servicios de Salud y de Asistencia Social,2015,8999,331488
+622,Hospitales,62,Servicios de Salud y de Asistencia Social,2016,15563,639124
+622,Hospitales,62,Servicios de Salud y de Asistencia Social,2017,15708,641498
+622,Hospitales,62,Servicios de Salud y de Asistencia Social,2018,15728,644402
+622,Hospitales,62,Servicios de Salud y de Asistencia Social,2019,13533,620886
+622,Hospitales,62,Servicios de Salud y de Asistencia Social,2020,11319,610860
+622,Hospitales,62,Servicios de Salud y de Asistencia Social,2021,11407,621674
+622,Hospitales,62,Servicios de Salud y de Asistencia Social,2022,11427,621666
+623,Residencias de Asistencia Social y para el Cuidado de la Salud,62,Servicios de Salud y de Asistencia Social,2015,2866,22422
+623,Residencias de Asistencia Social y para el Cuidado de la Salud,62,Servicios de Salud y de Asistencia Social,2016,5974,40946
+623,Residencias de Asistencia Social y para el Cuidado de la Salud,62,Servicios de Salud y de Asistencia Social,2017,5985,40351
+623,Residencias de Asistencia Social y para el Cuidado de la Salud,62,Servicios de Salud y de Asistencia Social,2018,5992,40558
+623,Residencias de Asistencia Social y para el Cuidado de la Salud,62,Servicios de Salud y de Asistencia Social,2019,6913,48582
+623,Residencias de Asistencia Social y para el Cuidado de la Salud,62,Servicios de Salud y de Asistencia Social,2020,7984,50566
+623,Residencias de Asistencia Social y para el Cuidado de la Salud,62,Servicios de Salud y de Asistencia Social,2021,7993,50954
+623,Residencias de Asistencia Social y para el Cuidado de la Salud,62,Servicios de Salud y de Asistencia Social,2022,7990,50942
+624,Otros Servicios de Asistencia Social,62,Servicios de Salud y de Asistencia Social,2015,37928,203116
+624,Otros Servicios de Asistencia Social,62,Servicios de Salud y de Asistencia Social,2016,76710,277291
+624,Otros Servicios de Asistencia Social,62,Servicios de Salud y de Asistencia Social,2017,76699,274849
+624,Otros Servicios de Asistencia Social,62,Servicios de Salud y de Asistencia Social,2018,76730,275512
+624,Otros Servicios de Asistencia Social,62,Servicios de Salud y de Asistencia Social,2019,77082,343770
+624,Otros Servicios de Asistencia Social,62,Servicios de Salud y de Asistencia Social,2020,75565,351227
+624,Otros Servicios de Asistencia Social,62,Servicios de Salud y de Asistencia Social,2021,74566,346304
+624,Otros Servicios de Asistencia Social,62,Servicios de Salud y de Asistencia Social,2022,74444,346031
+711,"Servicios Artísticos, Culturales y Deportivos, y otros Servicios Relacionados",71,"Servicios de Esparcimiento Culturales y Deportivos, y otros Servicios Recreativos",2015,7654,41479
+711,"Servicios Artísticos, Culturales y Deportivos, y otros Servicios Relacionados",71,"Servicios de Esparcimiento Culturales y Deportivos, y otros Servicios Recreativos",2016,15288,77551
+711,"Servicios Artísticos, Culturales y Deportivos, y otros Servicios Relacionados",71,"Servicios de Esparcimiento Culturales y Deportivos, y otros Servicios Recreativos",2017,15341,75743
+711,"Servicios Artísticos, Culturales y Deportivos, y otros Servicios Relacionados",71,"Servicios de Esparcimiento Culturales y Deportivos, y otros Servicios Recreativos",2018,15350,75742
+711,"Servicios Artísticos, Culturales y Deportivos, y otros Servicios Relacionados",71,"Servicios de Esparcimiento Culturales y Deportivos, y otros Servicios Recreativos",2019,17663,84787
+711,"Servicios Artísticos, Culturales y Deportivos, y otros Servicios Relacionados",71,"Servicios de Esparcimiento Culturales y Deportivos, y otros Servicios Recreativos",2020,18350,94630
+711,"Servicios Artísticos, Culturales y Deportivos, y otros Servicios Relacionados",71,"Servicios de Esparcimiento Culturales y Deportivos, y otros Servicios Recreativos",2021,18269,95006
+711,"Servicios Artísticos, Culturales y Deportivos, y otros Servicios Relacionados",71,"Servicios de Esparcimiento Culturales y Deportivos, y otros Servicios Recreativos",2022,18267,94795
+712,"Museos, Sitios Históricos, Zoológicos y Similares",71,"Servicios de Esparcimiento Culturales y Deportivos, y otros Servicios Recreativos",2015,1340,12970
+712,"Museos, Sitios Históricos, Zoológicos y Similares",71,"Servicios de Esparcimiento Culturales y Deportivos, y otros Servicios Recreativos",2016,2777,26411
+712,"Museos, Sitios Históricos, Zoológicos y Similares",71,"Servicios de Esparcimiento Culturales y Deportivos, y otros Servicios Recreativos",2017,2790,26914
+712,"Museos, Sitios Históricos, Zoológicos y Similares",71,"Servicios de Esparcimiento Culturales y Deportivos, y otros Servicios Recreativos",2018,2795,26783
+712,"Museos, Sitios Históricos, Zoológicos y Similares",71,"Servicios de Esparcimiento Culturales y Deportivos, y otros Servicios Recreativos",2019,3221,29359
+712,"Museos, Sitios Históricos, Zoológicos y Similares",71,"Servicios de Esparcimiento Culturales y Deportivos, y otros Servicios Recreativos",2020,3571,33720
+712,"Museos, Sitios Históricos, Zoológicos y Similares",71,"Servicios de Esparcimiento Culturales y Deportivos, y otros Servicios Recreativos",2021,3571,34503
+712,"Museos, Sitios Históricos, Zoológicos y Similares",71,"Servicios de Esparcimiento Culturales y Deportivos, y otros Servicios Recreativos",2022,3568,34544
+713,Servicios de Entretenimiento en Instalaciones Recreativas y otros Servicios Recreativos,71,"Servicios de Esparcimiento Culturales y Deportivos, y otros Servicios Recreativos",2015,52886,94861
+713,Servicios de Entretenimiento en Instalaciones Recreativas y otros Servicios Recreativos,71,"Servicios de Esparcimiento Culturales y Deportivos, y otros Servicios Recreativos",2016,111143,191391
+713,Servicios de Entretenimiento en Instalaciones Recreativas y otros Servicios Recreativos,71,"Servicios de Esparcimiento Culturales y Deportivos, y otros Servicios Recreativos",2017,111368,184865
+713,Servicios de Entretenimiento en Instalaciones Recreativas y otros Servicios Recreativos,71,"Servicios de Esparcimiento Culturales y Deportivos, y otros Servicios Recreativos",2018,111546,190003
+713,Servicios de Entretenimiento en Instalaciones Recreativas y otros Servicios Recreativos,71,"Servicios de Esparcimiento Culturales y Deportivos, y otros Servicios Recreativos",2019,112368,204198
+713,Servicios de Entretenimiento en Instalaciones Recreativas y otros Servicios Recreativos,71,"Servicios de Esparcimiento Culturales y Deportivos, y otros Servicios Recreativos",2020,106901,221880
+713,Servicios de Entretenimiento en Instalaciones Recreativas y otros Servicios Recreativos,71,"Servicios de Esparcimiento Culturales y Deportivos, y otros Servicios Recreativos",2021,105776,229897
+713,Servicios de Entretenimiento en Instalaciones Recreativas y otros Servicios Recreativos,71,"Servicios de Esparcimiento Culturales y Deportivos, y otros Servicios Recreativos",2022,105945,229401
+721,Servicios de Alojamiento Temporal,72,Servicios de Alojamiento Temporal y de Preparación de Alimentos y Bebidas,2015,23928,208983
+721,Servicios de Alojamiento Temporal,72,Servicios de Alojamiento Temporal y de Preparación de Alimentos y Bebidas,2016,49183,411369
+721,Servicios de Alojamiento Temporal,72,Servicios de Alojamiento Temporal y de Preparación de Alimentos y Bebidas,2017,48804,373583
+721,Servicios de Alojamiento Temporal,72,Servicios de Alojamiento Temporal y de Preparación de Alimentos y Bebidas,2018,24505,188882
+721,Servicios de Alojamiento Temporal,72,Servicios de Alojamiento Temporal y de Preparación de Alimentos y Bebidas,2019,49159,399683
+721,Servicios de Alojamiento Temporal,72,Servicios de Alojamiento Temporal y de Preparación de Alimentos y Bebidas,2020,52470,449459
+721,Servicios de Alojamiento Temporal,72,Servicios de Alojamiento Temporal y de Preparación de Alimentos y Bebidas,2021,52865,508196
+721,Servicios de Alojamiento Temporal,72,Servicios de Alojamiento Temporal y de Preparación de Alimentos y Bebidas,2022,52881,503866
+722,Servicios de Preparación de Alimentos y Bebidas,72,Servicios de Alojamiento Temporal y de Preparación de Alimentos y Bebidas,2015,544938,490328
+722,Servicios de Preparación de Alimentos y Bebidas,72,Servicios de Alojamiento Temporal y de Preparación de Alimentos y Bebidas,2016,1103832,1024785
+722,Servicios de Preparación de Alimentos y Bebidas,72,Servicios de Alojamiento Temporal y de Preparación de Alimentos y Bebidas,2017,1109190,1038323
+722,Servicios de Preparación de Alimentos y Bebidas,72,Servicios de Alojamiento Temporal y de Preparación de Alimentos y Bebidas,2018,555274,527953
+722,Servicios de Preparación de Alimentos y Bebidas,72,Servicios de Alojamiento Temporal y de Preparación de Alimentos y Bebidas,2019,1227807,1216842
+722,Servicios de Preparación de Alimentos y Bebidas,72,Servicios de Alojamiento Temporal y de Preparación de Alimentos y Bebidas,2020,1352313,1431732
+722,Servicios de Preparación de Alimentos y Bebidas,72,Servicios de Alojamiento Temporal y de Preparación de Alimentos y Bebidas,2021,1346140,1448545
+722,Servicios de Preparación de Alimentos y Bebidas,72,Servicios de Alojamiento Temporal y de Preparación de Alimentos y Bebidas,2022,1349455,1448635
+811,Servicios de Reparación y Mantenimiento,81,Otros Servicios Excepto Actividades Gubernamentales,2015,376557,142948
+811,Servicios de Reparación y Mantenimiento,81,Otros Servicios Excepto Actividades Gubernamentales,2016,751375,262127
+811,Servicios de Reparación y Mantenimiento,81,Otros Servicios Excepto Actividades Gubernamentales,2017,751995,273932
+811,Servicios de Reparación y Mantenimiento,81,Otros Servicios Excepto Actividades Gubernamentales,2018,752188,276284
+811,Servicios de Reparación y Mantenimiento,81,Otros Servicios Excepto Actividades Gubernamentales,2019,769049,308015
+811,Servicios de Reparación y Mantenimiento,81,Otros Servicios Excepto Actividades Gubernamentales,2020,789728,329239
+811,Servicios de Reparación y Mantenimiento,81,Otros Servicios Excepto Actividades Gubernamentales,2021,788779,330826
+811,Servicios de Reparación y Mantenimiento,81,Otros Servicios Excepto Actividades Gubernamentales,2022,789896,329556
+812,Servicios Personales,81,Otros Servicios Excepto Actividades Gubernamentales,2015,255206,55048
+812,Servicios Personales,81,Otros Servicios Excepto Actividades Gubernamentales,2016,512540,106183
+812,Servicios Personales,81,Otros Servicios Excepto Actividades Gubernamentales,2017,512963,111308
+812,Servicios Personales,81,Otros Servicios Excepto Actividades Gubernamentales,2018,513120,111538
+812,Servicios Personales,81,Otros Servicios Excepto Actividades Gubernamentales,2019,566197,134619
+812,Servicios Personales,81,Otros Servicios Excepto Actividades Gubernamentales,2020,619910,149620
+812,Servicios Personales,81,Otros Servicios Excepto Actividades Gubernamentales,2021,618075,149274
+812,Servicios Personales,81,Otros Servicios Excepto Actividades Gubernamentales,2022,619286,148237
+813,Asociaciones y Organizaciones,81,Otros Servicios Excepto Actividades Gubernamentales,2015,97333,515294
+813,Asociaciones y Organizaciones,81,Otros Servicios Excepto Actividades Gubernamentales,2016,194412,555290
+813,Asociaciones y Organizaciones,81,Otros Servicios Excepto Actividades Gubernamentales,2017,194995,562829
+813,Asociaciones y Organizaciones,81,Otros Servicios Excepto Actividades Gubernamentales,2018,195009,562624
+813,Asociaciones y Organizaciones,81,Otros Servicios Excepto Actividades Gubernamentales,2019,209362,855852
+813,Asociaciones y Organizaciones,81,Otros Servicios Excepto Actividades Gubernamentales,2020,225698,860179
+813,Asociaciones y Organizaciones,81,Otros Servicios Excepto Actividades Gubernamentales,2021,224927,849474
+813,Asociaciones y Organizaciones,81,Otros Servicios Excepto Actividades Gubernamentales,2022,224638,848098
+931,"Actividades Legislativas, Gubernamentales y de Impartición de Justicia",93,"Actividades Legislativas, Gubernamentales, de Impartición de Justicia y de Organismos Internacionales y Extraterritoriales",2015,81888,1257002
+931,"Actividades Legislativas, Gubernamentales y de Impartición de Justicia",93,"Actividades Legislativas, Gubernamentales, de Impartición de Justicia y de Organismos Internacionales y Extraterritoriales",2016,165752,2524545
+931,"Actividades Legislativas, Gubernamentales y de Impartición de Justicia",93,"Actividades Legislativas, Gubernamentales, de Impartición de Justicia y de Organismos Internacionales y Extraterritoriales",2017,163323,2501510
+931,"Actividades Legislativas, Gubernamentales y de Impartición de Justicia",93,"Actividades Legislativas, Gubernamentales, de Impartición de Justicia y de Organismos Internacionales y Extraterritoriales",2018,163304,2501995
+931,"Actividades Legislativas, Gubernamentales y de Impartición de Justicia",93,"Actividades Legislativas, Gubernamentales, de Impartición de Justicia y de Organismos Internacionales y Extraterritoriales",2019,147119,2520800
+931,"Actividades Legislativas, Gubernamentales y de Impartición de Justicia",93,"Actividades Legislativas, Gubernamentales, de Impartición de Justicia y de Organismos Internacionales y Extraterritoriales",2020,132102,2588272
+931,"Actividades Legislativas, Gubernamentales y de Impartición de Justicia",93,"Actividades Legislativas, Gubernamentales, de Impartición de Justicia y de Organismos Internacionales y Extraterritoriales",2021,132054,2589507
+931,"Actividades Legislativas, Gubernamentales y de Impartición de Justicia",93,"Actividades Legislativas, Gubernamentales, de Impartición de Justicia y de Organismos Internacionales y Extraterritoriales",2022,131851,2588620
+932,Organismos Internacionales y Extraterritoriales,93,"Actividades Legislativas, Gubernamentales, de Impartición de Justicia y de Organismos Internacionales y Extraterritoriales",2015,8,171
+932,Organismos Internacionales y Extraterritoriales,93,"Actividades Legislativas, Gubernamentales, de Impartición de Justicia y de Organismos Internacionales y Extraterritoriales",2016,24,388
+932,Organismos Internacionales y Extraterritoriales,93,"Actividades Legislativas, Gubernamentales, de Impartición de Justicia y de Organismos Internacionales y Extraterritoriales",2017,26,410
+932,Organismos Internacionales y Extraterritoriales,93,"Actividades Legislativas, Gubernamentales, de Impartición de Justicia y de Organismos Internacionales y Extraterritoriales",2018,26,410
+932,Organismos Internacionales y Extraterritoriales,93,"Actividades Legislativas, Gubernamentales, de Impartición de Justicia y de Organismos Internacionales y Extraterritoriales",2019,227,602
+932,Organismos Internacionales y Extraterritoriales,93,"Actividades Legislativas, Gubernamentales, de Impartición de Justicia y de Organismos Internacionales y Extraterritoriales",2020,246,789
+932,Organismos Internacionales y Extraterritoriales,93,"Actividades Legislativas, Gubernamentales, de Impartición de Justicia y de Organismos Internacionales y Extraterritoriales",2021,63,778
+932,Organismos Internacionales y Extraterritoriales,93,"Actividades Legislativas, Gubernamentales, de Impartición de Justicia y de Organismos Internacionales y Extraterritoriales",2022,62,772
